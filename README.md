@@ -4,7 +4,7 @@
 
 **Domain** : Real Estate
 
-### Webpage Link : <a href="[https://singapore-resale-flat-prices-prediction-819q.onrender.com](https://singapore-resale-flat-prices-predicting-jtyi.onrender.com)">Singapore Resale Flat Price Prediction Streamlit Application</a>
+### Webpage Link : <a href="https://singapore-resale-flat-prices-predicting-jtyi.onrender.com">Singapore Resale Flat Price Prediction Streamlit Application</a>
 <br/>
 
 ## Prerequisites
